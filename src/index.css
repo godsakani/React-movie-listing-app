@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+table{
+  font-size: xx-small;
+}
+.list-group{
+  font-size:xx-small;
+}
